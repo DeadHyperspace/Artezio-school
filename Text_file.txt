@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 С любым содержанием/With any subject
-Лучше чтобы имел несколько строк/ It'd be better for it to have several lines
+Лучше чтобы имел несколько строчек!/ It'd be better for it to have several lines
 Change of the first file
+=======
+С любым содержанием/With any subject
+Лучше чтобы имел несколько строчек!/ It'd be better for it to have several lines
+Change of the first file
+>>>>>>> master
