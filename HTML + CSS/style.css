@@ -1,0 +1,35 @@
+#first{
+	background-color:#858F9B;
+	 position: relative; 
+      float: left;
+      color: white;
+      width: 100%;
+	  font-size: large;
+}
+#full{
+	position: relative;
+	background: #c6cede;
+	font-family: "Times New Roman", Times, serif;
+
+}
+#second{
+	position: relative;
+	left: 5%;
+}
+#third{
+	position: relative;
+	left: 5%;
+}
+#fourth{
+	position: relative;
+	left: 5%;	
+}
+#fifth{
+	position: relative;
+	left: 5%;
+}
+
+#sixth{
+	position: relative;
+	left: 2%;
+}
